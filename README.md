@@ -4,7 +4,7 @@ Welcome to Janarthanan2107, a repository showcasing my projects and contribution
 
 ## About Me
 
-I'm Janarthanan, a passionate MERN stack developer with a keen interest in building scalable and robust web applications. With expertise in ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white), ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white), ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white), ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white), and ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white), I'm dedicated to crafting efficient and user-friendly solutions.
+I'm Janarthanan, a passionate MERN stack developer with a keen interest in building scalable and robust web applications. With expertise in ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white), ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white), ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white), ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white), ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white), and ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white), I'm dedicated to crafting efficient and user-friendly solutions.
 
 ## Projects
 
@@ -16,7 +16,7 @@ Technologies: ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=fla
 
 Demo: Link to the live in heading.
 
-GitHub: Link to the GitHub repository for the project.
+GitHub: [Link to the GitHub repository for the project](https://github.com/Janarthanan2107/Blogger-Full-Stack-Client.git).
 
 ### 🌟 [TrendSpotter](https://trendspotter-mens-fashion.netlify.app/)
 
@@ -26,7 +26,7 @@ Technologies: ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=fla
 
 Demo: Link to the live is in heading.
 
-GitHub: Link to the GitHub repository for the project.
+GitHub: [Link to the GitHub repository for the project](https://github.com/Janarthanan2107/Trend-Spotter-React.git).
 
 ## Contributions
 
