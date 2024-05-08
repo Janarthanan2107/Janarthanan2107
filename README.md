@@ -38,6 +38,6 @@ In addition to my personal projects, I actively contribute to open-source projec
 
 ## Get in Touch
 
-I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via email at [janarthanan.v2107@gmail.com](mailto:janarthanan.v2107@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/janarthanan-v-fullstackdeveloper).
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via email at [janarthanan.v2107@gmail.com](mailto:janarthanan.v2107@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/janarthanan-v-fullstackdeveloper).
 
 Let's build something amazing together!
