@@ -22,11 +22,12 @@ GitHub: [Link to the GitHub repository for the project](https://github.com/Janar
 
 Description: Brief description of the project, highlighting its purpose and key features.
 
-Technologies: ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+Technologies: ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
 
 Demo: Link to the live is in heading.
 
 GitHub: [Link to the GitHub repository for the project](https://github.com/Janarthanan2107/Trend-Spotter-React.git).
+
 
 ## Contributions
 
