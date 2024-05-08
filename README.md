@@ -8,23 +8,23 @@ I'm Janarthanan, a passionate MERN stack developer with a keen interest in build
 
 ## Projects
 
-### 🚀 [Project 1 Name](Project_1_Link)
+### 🚀 [Blogger Application](https://blogg-sharing.netlify.app/)
 
 Description: Brief description of the project, highlighting its purpose and key features.
 
 Technologies: ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
-Demo: Link to the live demo or deployed version (if available).
+Demo: Link to the live in heading.
 
 GitHub: Link to the GitHub repository for the project.
 
-### 🌟 [Project 2 Name](Project_2_Link)
+### 🌟 [TrendSpotter](https://trendspotter-mens-fashion.netlify.app/)
 
 Description: Brief description of the project, highlighting its purpose and key features.
 
 Technologies: ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
-Demo: Link to the live demo or deployed version (if available).
+Demo: Link to the live is in heading.
 
 GitHub: Link to the GitHub repository for the project.
 
