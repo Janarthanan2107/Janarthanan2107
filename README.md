@@ -16,7 +16,7 @@ Technologies: ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=fla
 
 Demo: Link to the live in heading.
 
-GitHub: [Link to the GitHub repository for the project](https://github.com/Janarthanan2107/Blogger-Full-Stack-Client.git).
+GitHub: [Link to the GitHub repository for the project](https://github.com/Janarthanan2107/blogSpace-Client).
 
 ### 🌟 [TrendSpotter](https://trendspotter-mens-fashion.netlify.app/)
 
