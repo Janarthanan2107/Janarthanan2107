@@ -8,7 +8,7 @@ I'm Janarthanan, a passionate MERN stack developer with a keen interest in build
 
 ## Projects
 
-### 🚀 [Blogger Application]([https://blogg-sharing.netlify.app/](https://magical-blog-space.netlify.app/))
+### 🚀 [Blogger Application](https://magical-blog-space.netlify.app/)
 
 Description: Brief description of the project, highlighting its purpose and key features.
 
